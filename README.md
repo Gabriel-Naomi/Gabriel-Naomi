@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sejá bem vindo ! 💜
 
-<!--
-**Gabriel-Naomi/Gabriel-Naomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel 
 
-Here are some ideas to get you started:
+- Quero aprender a programar
+- Estou estudando pelo [Alura](https://alura.com.br/)
+- Meu sonho e criar jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quem poder me ajudar e me ensinar sobre prograamação e jogos entre em contato comigo 📫
+
+bazarcortes7@gmail.com
+
+![](https://media1.tenor.com/m/ujLwY-mn2XwAAAAd/doom-doom-eternal.gif)
