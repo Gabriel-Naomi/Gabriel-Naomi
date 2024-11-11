@@ -10,4 +10,4 @@ Me chamo Gabriel
 
 bazarcortes7@gmail.com
 
-![](https://media1.tenor.com/m/4fkBoyjubOIAAAAd/doom-slayer-doom-marine.gif)
+![](https://media1.tenor.com/m/PKoJhfWz3e0AAAAd/doomguy-doom.gif)
